@@ -1,0 +1,169 @@
+{
+  "Header": {
+    "title": "Digital Agency",
+    "paragraph": "Humight is a dynamic digital agency that specializes in innovative solutions to elevate brands in the digital landscape."
+  },
+  "About": {
+    "paragraph": " adalah digital agency yang berfokus pada pengembangan solusi digital inovatif untuk membantu bisnis dan merek mencapai tujuan mereka di era digital yang terus berkembang. Kami menawarkan berbagai layanan mulai dari pengembangan situs web, aplikasi mobile, pemasaran digital, hingga strategi konten yang dirancang untuk memperkuat kehadiran online klien kami dan memberikan dampak yang nyata. Kami percaya bahwa digitalisasi bukan hanya soal teknologi, tetapi juga tentang menciptakan hubungan yang lebih kuat antara merek dan audiens mereka.",
+    "Why": [
+      "Inovasi dan Teknologi Terkini",
+      "Pendekatan Personal dan Kolaboratif",
+      "Keahlian dan Pengalaman"
+    ],
+    "Why2": [
+      "Fleksibilitas dan Skalabilitas ",
+      "Pendekatan Berfokus pada Hasil",
+      "Efisiensi proses perancangan"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "BTS Toritix",
+      "largeImage": "img/portfolio/toritix.jpeg",
+      "smallImage": "img/portfolio/toritix.jpeg"
+    },
+    {
+      "title": "BTS Toritix",
+      "largeImage": "img/portfolio/toritix.jpeg",
+      "smallImage": "img/portfolio/toritix.jpeg"
+    },
+    {
+      "title": "BTS Toritix",
+      "largeImage": "img/portfolio/toritix.jpeg",
+      "smallImage": "img/portfolio/toritix.jpeg"
+    },
+    {
+      "title": "Respectone",
+      "largeImage": "img/portfolio/respectone.jpeg",
+      "smallImage": "img/portfolio/respectone.jpeg"
+    },
+    {
+      "title": "Respectone",
+      "largeImage": "img/portfolio/respectone.jpeg",
+      "smallImage": "img/portfolio/respectone.jpeg"
+    },
+    {
+      "title": "Respectone",
+      "largeImage": "img/portfolio/respectone.jpeg",
+      "smallImage": "img/portfolio/respectone.jpeg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-briefcase",
+      "name": "Konsultasi Digital",
+      "text": "Menyediakan konsultasi digital untuk merancang solusi tepat guna yang meningkatkan keberhasilan transformasi bisnis di dunia digital yang sudah semakin berkembang"
+    },
+    {
+      "icon": "fa fa-line-chart",
+      "name": "Manajemen Kampanye Iklan",
+      "text": "Layanan manajemen kampanye iklan dari Humight membantu merancang dan menjalankan iklan yang efektif untuk mencapai target audiens dengan hasil maksimal."
+    },
+    {
+      "icon": "fa fa-magic",
+      "name": "Strategi Konten Pemasaran",
+      "text": "Mengembangkan strategi konten pemasaran yang disesuaikan untuk meningkatkan engagement dan memperkuat citra merek di pasar digital, agar daya saing perusahaan meningkat"
+    },
+    {
+      "icon": "fa fa-sliders",
+      "name": "Quality Assurance",
+      "text": "Layanan quality assurance, Humight memastikan setiap proyek yang dijalankan memenuhi standar kualitas tertinggi sebelum diluncurkan untuk memastikkan proyek berjalan dengan semestinya"
+    },
+    {
+      "icon": "fa fa-group",
+      "name": "Pelatihan dan Dukungan Teknis",
+      "text": "Memberikan pelatihan dan dukungan teknis untuk memastikan tim dapat mengoperasikan dan memelihara sistem digital dengan efisiensi maksimal."
+    },
+    {
+      "icon": "fa fa-connectdevelop",
+      "name": "Pembangunan dan Pemeliharaan Social Media",
+      "text": "Membantu dalam pembangunan dan pemeliharaan media sosial yang efektif untuk memperkuat hubungan merek dengan audiens melalui konten yang relevan dan konsisten."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/budap.jpg",
+      "text": "Proses pembuatan Buku Tahunan Sekolah kami berjalan sangat lancar berkat tim Humight. Desainnya luar biasa, dan kami mendapatkan hasil yang memuaskan.",
+      "name": "Budap" 
+    },
+    {
+      "img": "img/testimonials/budap.jpg",
+      "text": "Manajemen kampanye iklan yang dilakukan oleh Humight membawa hasil luar biasa! Penjualan kami meningkat pesat berkat strategi iklan yang tepat sasaran.",
+      "name": "Budap"
+    },
+    {
+      "img": "img/testimonials/budap.jpg",
+      "text": "Humight membantu merancang strategi konten yang sangat efektif untuk meningkatkan visibilitas brand kami di media sosial. Engagement kami melonjak tajam",
+      "name": "Budap"
+    },
+    {
+      "img": "img/testimonials/budap.jpg",
+      "text": "Pelatihan dan dukungan teknis dari Humight sangat membantu tim kami dalam mengelola sistem digital dengan lebih efisien. Terima kasih atas dukungannya",
+      "name": "Budap"
+    },
+    {
+      "img": "img/testimonials/budap.jpg",
+      "text": "Tim Humight memberikan layanan quality assurance yang sangat teliti dan memastikan setiap elemen di website kami berjalan dengan sempurna.",
+      "name": "Budap"
+    },
+    {
+      "img": "img/testimonials/budap.jpg",
+      "text": "Pembangunan dan pemeliharaan media sosial oleh Humight benar-benar mengubah cara kami berinteraksi dengan pelanggan. Hasilnya sangat memuaskan",
+      "name": "Budap" 
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/avatar.png",
+      "name": "Someone",
+      "job": "Position"
+    },
+    {
+      "img": "img/team/avatar.png",
+      "name": "Someone",
+      "job": "Position"
+    },
+    {
+      "img": "img/team/avatar.png",
+      "name": "Someone",
+      "job": "Position"
+    },
+    {
+      "img": "img/team/avatar.png",
+      "name": "Someone",
+      "job": "Position"
+    }
+  ],
+  "Contact": {
+    "address": "Jakarta",
+    "phone": "+62 811 456 2234",
+    "email": "humight@company.com",
+    "facebook": "fb.com",
+    "instagram": "humightspace",
+    "twitter": "twitter.com",
+    "website": "humightcompany.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-credit-card",
+      "title": "Digital Marketing",
+      "text": "Digital Marketing dan kampanye iklan yang terencana dengan baik akan memperluas jangkauan bisnis Anda. Seperti menawarkan layanan pemasaran digital dan kampanye media sosial."
+    },
+    {
+      "icon": "fa fa-archive",
+      "title": "Search Engine Optimization",
+      "text": "SEO adalah fitur yang sangat krusial untuk memastikan visibilitas online yang optimal. Tanpa SEO yang tepat, situs web Anda mungkin sulit ditemukan di mesin pencari seperti Google."
+    },
+    {
+      "icon": "fa fa-bar-chart",
+      "title": "Analitik dan Laporan Kinerja",
+      "text": "Memberikan wawasan dan laporan yang dapat membantu Anda memahami kinerja digital Anda, serta memberikan rekomendasi strategis untuk optimasi lebih lanjut."
+    },
+    {
+      "icon": "fa fa-codepen",
+      "title": "Branding dan Desain Grafis",
+      "text": "Menciptakan identitas merek yang kuat dengan desain logo, branding visual, dan materi pemasaran yang menarik dan sesuai dengan nilai perusahaan Anda."
+    }
+  ]
+}
